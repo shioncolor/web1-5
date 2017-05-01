@@ -27,3 +27,8 @@ li{
     background-color: #3399cc; 
    
 }
+address{
+    font-size: 0.75em;
+    font-style: italic;
+}
+
