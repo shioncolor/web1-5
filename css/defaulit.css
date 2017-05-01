@@ -2,7 +2,7 @@
 body{
     background-color: #fbf9cc; 
 }
-h1{
+h1a{
     font-size: 1.75em;
     color:#3399cc;
 }
@@ -21,6 +21,12 @@ p{
      line-height: 1.75em;
 
 }
+#lead{
+    border-top: #6fbb9a 1px dotted;
+….
+    text-align: center;
+}
+
 li{
     font-size: 0.8em;
     color:#333333;
