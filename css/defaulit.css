@@ -31,4 +31,10 @@ address{
     font-size: 0.75em;
     font-style: italic;
 }
+a{
+    color: #df4839;
+}a:hover{
+    color: #ff705b; 
+}
+
 
